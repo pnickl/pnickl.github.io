@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Investigation of oscillating bubbles/drops with different flow solvers and with various surface tension models"
+date:   2014-11-23 23:59:59 +00:00
+image: /images/fluid.png
+categories: thesis
+author: "Peter Nickl"
+venue: "B.Sc. Thesis, Numerical Methods in Mechanical Engineering, Department of Mechanical Engineering, TU Darmstadt, Germany"
+link: https://drive.google.com/file/d/1Ri-mFRiajgnGsF8kN4eaAwxJanM_Ak4g/view
+---

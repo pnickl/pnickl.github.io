@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "A Variational Infinite Mixture for Probabilistic Inverse Dynamics Learning"
+date:   2021-02-28 23:59:59 +00:00
+image: /images/ilr3.png
+categories: research
+author: "Peter Nickl"
+authors: "Hany Abdulsamad, <strong>Peter Nickl</strong>, Pascal Klink, and Jan Peters"
+venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+arxiv: https://arxiv.org/abs/2011.05217
+video: https://drive.google.com/file/d/1i0SbHTHzKczNIsE9bhFAbOBaThwUbxJH/view
+---

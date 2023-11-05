@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Bayesian Inference for Regression Models using Nonparametric Infinite Mixtures"
+date:   2019-12-05 23:59:59 +00:00
+image: /images/dpglm2.png
+categories: thesis
+author: "Peter Nickl"
+venue: "M.Sc. Thesis, Intelligent Autonomous Systems Lab, Department of Computer Science, Technical University of Darmstadt, Germany"
+link: https://www.ias.informatik.tu-darmstadt.de/uploads/Team/HanyAbdulsamad/Nickl_Master_Thesis_2019.pdf
+---
