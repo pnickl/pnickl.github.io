@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Variational Hierarchical Mixtures for Probabilistic Learning of Inverse Dynamics"
-date:   2023-06-01 23:59:59 +00:00
+date:   2023-08-01 23:59:59 +00:00
 image: /images/hilr4.png
 categories: research
 author: "Peter Nickl"

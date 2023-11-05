@@ -8,6 +8,7 @@ author: "Peter Nickl"
 authors: "Hany Abdulsamad, <strong>Peter Nickl</strong>, Pascal Klink, and Jan Peters"
 venue: "IEEE International Conference on Robotics and Automation (ICRA)"
 arxiv: https://arxiv.org/abs/2011.05217
+paper: https://ieeexplore.ieee.org/document/9560832
 slides: https://drive.google.com/file/d/1i0SbHTHzKczNIsE9bhFAbOBaThwUbxJH/view
 video: https://drive.google.com/file/d/1n2Q7nZn2ZCn0UdRsR24P0mo6Z8DUuMus/view
 ---

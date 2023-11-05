@@ -30,19 +30,19 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 24px;
   font-display: auto;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 26px;
   font-display: auto;
 }
 
 h2 {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 30px;
+  font-size: 44px;
   font-display: auto;
   font-weight: normal;
   padding: 0px;
@@ -52,7 +52,7 @@ h2 {
 
 h3 {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 700;
   font-display: auto;
   padding: 0px;
@@ -62,7 +62,7 @@ h3 {
 
 h1 {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 40px;
+  font-size: 48px;
   font-weight: normal;
   font-display: auto;
   text-align: center;
@@ -103,3 +103,20 @@ span.highlight {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 //@import "highlights";
 //@import "svg-icons";
+
+// CSS for scrollbar adapted from https://github.com/kkhetarpal/kkhetarpal.github.io/blob/master/stylesheet.css#L418
+#scroll {
+    position: absolute;
+    white-space: normal;
+    top: 0px;
+    left: 0px;
+}
+#oScroll {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    width: auto;
+    height: 325px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
