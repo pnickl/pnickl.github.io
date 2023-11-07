@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Integrated truck and manpower scheduling in cross-docks – design and analysis of a heuristic algorithm"
+title: "Integrated Truck and Manpower Scheduling in Cross-docks – Design and Analysis of a Heuristic Algorithm"
 date:   2018-11-23 23:59:59 +00:00
 image: /images/logistics.png
 categories: thesis

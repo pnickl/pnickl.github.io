@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Investigation of oscillating bubbles/drops with different flow solvers and with various surface tension models"
+title:  "Investigation of Oscillating Bubbles/Drops with Different Flow Solvers and with Various Surface Tension Models"
 date:   2014-11-23 23:59:59 +00:00
 image: /images/fluid.png
 categories: thesis
