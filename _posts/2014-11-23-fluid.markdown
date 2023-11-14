@@ -5,7 +5,7 @@ date:   2014-11-23 23:59:59 +00:00
 image: /images/fluid.png
 categories: thesis
 author: "Peter Nickl"
-venue: "B.Sc. Thesis, Numerical Methods in Mechanical Engineering, Department of Mechanical Engineering, TU Darmstadt, Germany"
+venue: "B.Sc. Thesis, Numerical Methods in Mechanical Engineering, Department of Mechanical Engineering, Technical University of Darmstadt, Germany"
 link: https://drive.google.com/file/d/1Ri-mFRiajgnGsF8kN4eaAwxJanM_Ak4g/view
 excerpt: We survey and implement numerical surface tension models of oscillating bubbles in multiphase flows.
 abstract: We conduct numerical simulations of multiphase flows, such as bubbles of gas in a liquid. In the medical domain, for instance, micro-bubbles find application in the targeted allocation of drugs in the human body. The Navier-Stokes partial differential equations describing the Newtonian mechanics of viscous fluids can be solved analytically only in simple cases. This makes numerical solutions indispensable. At a scale of a few micrometers, surface tension is the dominating force that drives the bubble motion. We (1) conduct a literature survey on numerical models for the surface tension of bubbles, (2) implement suitable candidates in multiple numerical flow solvers and (3) conduct experiments to evaluate the most accurate model and flow solver.
