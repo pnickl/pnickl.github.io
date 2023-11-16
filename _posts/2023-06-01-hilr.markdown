@@ -6,7 +6,7 @@ image: /images/hilr4.png
 categories: research
 author: "Peter Nickl"
 authors: "Hany Abdulsamad, <strong>Peter Nickl</strong>, Pascal Klink, and Jan Peters"
-venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
+venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)"
 paper: https://www.computer.org/csdl/journal/tp/5555/01/10247551/1QnVQyLVXYA
 arxiv: https://arxiv.org/abs/2211.01120
 excerpt: We propose an efficient variational inference algorithm and a hierarchical extension to an infinite mixture of local linear regression units with applications to robot control. The hierarchical extension allows for weight-sharing and improved model compression.
