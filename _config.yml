@@ -91,3 +91,7 @@ exclude:
   - todo.txt
   - _temp/index.html
   - _temp/
+
+# plugins
+plugins:
+  - jekyll-seo-tag
