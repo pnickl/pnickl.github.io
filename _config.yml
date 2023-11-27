@@ -93,5 +93,5 @@ exclude:
   - _temp/
 
 # plugins
-plugins:
-  - jekyll-seo-tag
+# plugins:
+#  - jekyll-seo-tag
