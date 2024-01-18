@@ -7,7 +7,7 @@ categories: research
 author: "Peter Nickl"
 authors: "<strong>Peter Nickl</strong>, Lu Xu*, Dharmesh Tailor*, Thomas Möllenhoff, Emtiyaz Khan"
 venue: "37th Conference on Neural Information Processing Systems (NeurIPS)"
-venue2: "ICML Workshop on Duality Principles for Modern Machine Learning, 2023"
+venue2: "ICML Workshop on Duality Principles for Modern Machine Learning"
 arxiv: https://arxiv.org/abs/2310.19273
 video: https://recorder-v3.slideslive.com/#/share?share=86527&s=19810919-a1df-47e2-b7b9-5ea739824099
 poster: /docs/mpe_neurips23.pdf
