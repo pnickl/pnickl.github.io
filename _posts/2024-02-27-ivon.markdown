@@ -5,7 +5,7 @@ date:   2024-02-27 23:59:59 +00:00
 image: /images/ivon.png
 categories: research
 author: "Peter Nickl"
-authors: "Yuesong Shen*, Nico Daheim*, Bai Cong, <strong>Peter Nickl</strong>, Gian Maria Marconi, Clement Bazan, Rio Yokota, Iryna Gurevych, Daniel Cremers, Emtiyaz Khan, Thomas Moellenhoff"
+authors: "Yuesong Shen*, Nico Daheim*, Bai Cong, <strong>Peter Nickl</strong>, Gian Maria Marconi, Clement Bazan, Rio Yokota, Iryna Gurevych, Daniel Cremers, Emtiyaz Khan, Thomas Möllenhoff"
 venue: "arXiv preprint"
 arxiv: https://arxiv.org/abs/2402.17641
 blog: https://team-approx-bayes.github.io/blog/ivon/
