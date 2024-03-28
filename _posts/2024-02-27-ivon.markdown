@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Variational Learning is Effective for Large Deep Networks"
+date:   2024-02-27 23:59:59 +00:00
+image: /images/ivon.png
+categories: research
+author: "Peter Nickl"
+authors: "Yuesong Shen*, Nico Daheim*, Bai Cong, <strong>Peter Nickl</strong>, Gian Maria Marconi, Clement Bazan, Rio Yokota, Iryna Gurevych, Daniel Cremers, Emtiyaz Khan, Thomas Moellenhoff"
+venue: "arXiv preprint"
+arxiv: https://arxiv.org/abs/2402.17641
+blog: https://team-approx-bayes.github.io/blog/ivon/
+code: https://github.com/team-approx-bayes/ivon
+excerpt: We show that variational learning is effective for large deep networks such as GPT-2. We demonstrate the benefits of variational learning in downstream tasks like OOD detection, merging of large models and understanding the sensitivity of models to the training data.
+abstract: We give extensive empirical evidence against the common belief that variational learning is ineffective for large neural networks. We show that an optimizer called Improved Variational Online Newton (IVON) consistently matches or outperforms Adam for training large networks such as GPT-2 and ResNets from scratch. IVON's computational costs are nearly identical to Adam but its predictive uncertainty is better. We show several new use cases of IVON where we improve fine-tuning and model merging in Large Language Models, accurately predict generalization error, and faithfully estimate sensitivity to data. We find overwhelming evidence in support of effectiveness of variational learning.
+---
