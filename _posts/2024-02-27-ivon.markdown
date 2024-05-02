@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Variational Learning is Effective for Large Deep Networks"
-date:   2024-02-27 23:59:59 +00:00
+date:   2024-05-01 23:59:59 +00:00
 image: /images/ivon.png
 categories: research
 author: "Peter Nickl"
 authors: "Yuesong Shen*, Nico Daheim*, Bai Cong, <strong>Peter Nickl</strong>, Gian Maria Marconi, Clement Bazan, Rio Yokota, Iryna Gurevych, Daniel Cremers, Emtiyaz Khan, Thomas Möllenhoff"
-venue: "arXiv preprint"
+venue: "International Conference on Machine Learning (ICML)"
 arxiv: https://arxiv.org/abs/2402.17641
 blog: https://team-approx-bayes.github.io/blog/ivon/
 code: https://github.com/team-approx-bayes/ivon
